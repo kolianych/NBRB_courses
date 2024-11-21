@@ -1,19 +1,38 @@
 # nbrb_curs
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Тестовое задание
+Техническое задание
+Проект: Приложение по курсам валют Нац Банка
+Источник данных: Национальный банк Республики Беларусь - API обменных курсов
+Общие требования:
+Функциональные требования:
+Tab 1 - Список всех валют:
+Tab 2 - Конвертер валют:
+Нефункциональные требования:
+Критерии приемки:
+1. Платформы: Приложение должно быть кроссплатформенным (iOS, Android).
+2. Интерфейс: Современный и интуитивно понятный дизайн с акцентом на простоту
+использования.
+3. Язык: Интерфейс должен поддерживать русский и английский языки.
+4. Обновление данных: Данные о курсах валют должны обновляться
+автоматически при запуске приложения и по запросу пользователя.
+Отображение всех доступных валют с курсами относительно белорусского рубля
+(Cur_Abbreviation, Cur_OfficialRate).
+Поиск по валютам (фильтрация по названию).
+Обновление данных по запросу пользователя.
+Возможность ввода суммы в одной валюте и выбора целевой валюты для
+конвертации.
+Отображение результата конвертации с точностью до 2-х десятичных знаков.
+Производительность: Загрузка данных и обновления должны происходить без
+заметных задержек.
+Все два таба функционируют согласно описанным требованиям.
+Приложение корректно отображает и обновляет данные.
+Интерфейс адаптирован для мобильных устройств с разными разрешениями
+экрана.
+Технологии:
+Frontend: Flutter
 
 ![image](https://github.com/user-attachments/assets/a00e7ac9-0707-4771-95c6-05bdac69bbf6)
 ![image](https://github.com/user-attachments/assets/b0da00e0-ba5b-437f-bd59-b1a02691af80)
