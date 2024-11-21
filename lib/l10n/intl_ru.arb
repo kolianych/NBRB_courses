@@ -1,0 +1,13 @@
+{
+  "curofficialrate": "{cur_OfficialRate} бел.руб.",
+  "no_cover_value": "Введите значение суммы",
+  "exchange": "Курс {snapshot.data}",
+  "exchangeHowmuch": "курс за {quotName}",
+  "errorLoadingCurrencies": "Ошибка загрузки валют",
+  "sum": "Сумма",
+  "converter_text": "Конвертор валют",
+  "search": "Поиск",
+  "statetimestart": "текущие курсы валют на {state.timeStart}",
+  "goToCurrencyConverter": "Перейти в конвертор валют",
+  "nbrnExchangeRates": "Курсы валют НБРБ"
+}

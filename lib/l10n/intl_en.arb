@@ -1,0 +1,13 @@
+{
+  "curofficialrate": "{cur_OfficialRate} bel.rub.",
+  "no_cover_value": "Enter the amount value",
+  "exchange": "Exchange {snapshot.data}",
+  "exchangeHowmuch": "course for {quotName}",
+  "errorLoadingCurrencies": "Error loading currencies",
+  "sum": "Sum",
+  "converter_text": "Currency converter",
+  "search": "Search",
+  "statetimestart": "current exchange rates for {state.timeStart}",
+  "goToCurrencyConverter": "Go to currency converter",
+  "nbrnExchangeRates": "NBRB exchange rates"
+}
