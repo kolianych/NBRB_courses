@@ -137,7 +137,6 @@ class CurrencyConverterPageState extends State<CurrencyConverterPage> {
                     if (formattedAmount.contains('.')) {
                       int decimalIndex = formattedAmount.indexOf('.');
                       if (formattedAmount.length > decimalIndex + 2) {
-                        // Обрезаем строку до двух знаков после запятой
                         formattedAmount =
                             formattedAmount.substring(0, decimalIndex + 3);
                       }
